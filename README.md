@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Password Manager is a secure tool designed to manage and protect your passwords. It includes features like encryption, decryption, and password strength checking.
+The Password Manager is a secure tool designed to manage and protect your passwords. It includes features like encrypted passowrd saving as well has a saving the hashed user's password.
 
 ## Prerequisites ⚙️
 
