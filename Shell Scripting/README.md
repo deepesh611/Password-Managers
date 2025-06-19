@@ -49,5 +49,5 @@ To launch the Password Manager, execute:
 - The `.env` file will be created or updated during setup and contains sensitive information. Keep it secure.
 
 ## License 📜
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](../LICENSE).
 
